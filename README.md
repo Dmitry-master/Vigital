@@ -1,6 +1,5 @@
-<h1>Vigital</h1>
+<h1><a href='http://vigital.mnb-t.com'>Vigital</a></h1>
 <h2>Website for digital agency</h2>
-<p>http://vigital.mnb-t.com/</p>
 <h3>Stack:</h3>
 <ul>
 	<li>HTML5</li>
